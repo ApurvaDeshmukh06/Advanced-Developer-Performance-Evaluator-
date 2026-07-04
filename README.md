@@ -63,7 +63,7 @@ The system first derives intermediate knowledge (technical skill and team integr
 ```text
 Advanced-Developer-Evaluator/
 │
-├── evaluater.py          # Main Expert System
+├── evaluator.py          # Main Expert System
 ├── README.md             # Project Documentation
 └── requirements.txt      # Python Dependencies (optional)
 ```
@@ -269,7 +269,7 @@ pip install experta
 Run the project
 
 ```bash
-python evaluater.py
+python evaluator.py
 ```
 
 ---
